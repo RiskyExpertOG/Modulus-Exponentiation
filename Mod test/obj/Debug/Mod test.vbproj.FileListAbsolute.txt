@@ -1,0 +1,12 @@
+C:\Users\gedra\source\repos\Mod test\Mod test\bin\Debug\Mod test.exe.config
+C:\Users\gedra\source\repos\Mod test\Mod test\bin\Debug\Mod test.exe
+C:\Users\gedra\source\repos\Mod test\Mod test\bin\Debug\Mod test.pdb
+C:\Users\gedra\source\repos\Mod test\Mod test\bin\Debug\Mod test.xml
+C:\Users\gedra\source\repos\Mod test\Mod test\obj\Debug\Mod test.vbprojAssemblyReference.cache
+C:\Users\gedra\source\repos\Mod test\Mod test\obj\Debug\Mod_test.Form1.resources
+C:\Users\gedra\source\repos\Mod test\Mod test\obj\Debug\Mod_test.Resources.resources
+C:\Users\gedra\source\repos\Mod test\Mod test\obj\Debug\Mod test.vbproj.GenerateResource.cache
+C:\Users\gedra\source\repos\Mod test\Mod test\obj\Debug\Mod test.vbproj.CoreCompileInputs.cache
+C:\Users\gedra\source\repos\Mod test\Mod test\obj\Debug\Mod test.exe
+C:\Users\gedra\source\repos\Mod test\Mod test\obj\Debug\Mod test.xml
+C:\Users\gedra\source\repos\Mod test\Mod test\obj\Debug\Mod test.pdb
